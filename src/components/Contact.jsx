@@ -132,7 +132,7 @@ const Contact = () => {
     </button>
     <button
       type='button'
-      onClick={() => window.open("https://your-resume-link.com", "_blank")}
+      onClick={() => window.open("https://drive.google.com/file/d/1NgEnvjRlQm0eV2UQTD877eoG7ENDjEwg/view?usp=drive_link", "_blank")}
       className='bg-tertiary py-3 px-6 mt-5 flex-1 rounded-xl outline-none text-white font-bold shadow-md shadow-primary hover:bg-[#1a1a2e]'
     >
       Check Resume
